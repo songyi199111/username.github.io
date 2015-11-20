@@ -1,11 +1,11 @@
-# username.github.io
+ # username.github.io
 CSS-颜色
 
 红绿蓝混合能组合出1600万种不同的颜色
 
 颜色表示方式
 十六进制
-#RRGGBB，其中的 RR（红色）、GG（绿色）、BB（蓝色）
+RGB，其中的 RR（红色）、GG（绿色）、BB（蓝色）
 
 RGB 颜色
 红黄蓝 百分比 rgb(0,220,255) rgb(0%,10%,90%);
